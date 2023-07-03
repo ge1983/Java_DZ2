@@ -1,7 +1,7 @@
 // Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.logging.*;
+
 public class Z2 {
     public static void main(String[] args) throws IOException {
         int [] array = {2, 5, 1, -7, 3, 64, 0};
